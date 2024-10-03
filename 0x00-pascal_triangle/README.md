@@ -1,0 +1,2 @@
+scal Triangle in pytho
+
